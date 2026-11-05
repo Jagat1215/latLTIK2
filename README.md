@@ -1,0 +1,2 @@
+# latLTIK
+latihan ltik github
